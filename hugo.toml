@@ -1,0 +1,18 @@
+baseURL = 'https://miserlyhorse.github.io/'
+locale = 'en-us'
+title = 'The Miserly Horse'
+theme = 'hermit'
+
+[[menus.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 10
+
+[[menus.main]]
+    name = "About"
+    url = "/about/"
+    weight = 20
+
+[params]
+    homeSubtitle = "Screaming in to the void"
+    footerHideThemeName = true
