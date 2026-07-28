@@ -10,4 +10,4 @@ tags:
 
 "Down-tempo and slam-adjacent deathcore mixed with urban hip-hop vocal rhythms, heavy down-tuned riffs, and intense breakdowns."
 
-Why does everything need a label? I've got no idea what that sounds like. It turns out it's Filth (literally)... and I love it
+Why does everything need a label? I've got no idea how that sounds. It turns out it's Filth (literally)... and I love it
